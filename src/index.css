@@ -199,7 +199,7 @@ Menu
   border-radius: var(--radius);
   display: block;
 }
-s .item-info header {
+.item-info header {
   display: flex;
   justify-content: space-between;
   border-bottom: 0.5px dotted var(--clr-grey-5);
