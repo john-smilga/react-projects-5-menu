@@ -195,11 +195,11 @@ Menu
   object-fit: cover;
   height: 200px;
   width: 100%;
-  border: 0.5rem solid var(--clr-gold);
+  border: 0.25rem solid var(--clr-gold);
   border-radius: var(--radius);
   display: block;
 }
-.item-info header {
+s .item-info header {
   display: flex;
   justify-content: space-between;
   border-bottom: 0.5px dotted var(--clr-grey-5);
